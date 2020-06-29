@@ -7,7 +7,7 @@
   <p align="center"><img width="20" height="20" src="https://store.steampowered.com/favicon.ico"></img>  Update a pinned gist to contain your Steam playtime leaderboard. </p>
   
    <p align="center">
-    <a href="https://github.com/YouEclipse/steam-box/workflows/Update%20gist%20with%20Steam%20Playtime/badge.svg"><img src="https://github.com/YouEclipse/steam-box/workflows/Update%20gist%20with%20Steam%20Playtime/badge.svg" alt="Update gist with Steam Playtime"></a>
+    <a href="https://github.com/geozukunft/steam-box/workflows/Update%20gist%20with%20Steam%20Playtime/badge.svg"><img src="https://github.com/geozukunft/steam-box/workflows/Update%20gist%20with%20Steam%20Playtime/badge.svg" alt="Update gist with Steam Playtime"></a>
   </p>
 </p>
 
